@@ -1,2 +1,3 @@
 # openroms.github.io
-website for server and stuff
+website for discord server
+in dev
